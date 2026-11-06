@@ -51,6 +51,7 @@ O projeto inclui uma interface web interativa em HTML/CSS/JavaScript que demonst
 ### Como visualizar localmente:
 1. Clone este repositório ou faça o download dos ficheiros.
 2. Abra o ficheiro `index.html` diretamente em qualquer browser moderno.
+   ou abra diretamente aqui https://fabioferreira97.github.io/RETRON_sistema-de-recolha.github.io/
 
 ---
 
