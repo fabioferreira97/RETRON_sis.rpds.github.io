@@ -1,0 +1,310 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="8jt-SyV4n15nOR7pbkGS">
+    <mxGraphModel dx="2946" dy="2915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-4" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Início" vertex="1">
+          <mxGeometry height="60" width="90" x="355" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-1" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Chefe de Secção&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 7px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Liga Monitor&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 7px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;e o computador (Raspberry Pi)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="331.25" x="234.38" y="-184" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-8" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-12" connectable="0" parent="sZVrNZs7Dj_VCF20QzUV-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.1065" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-9" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-13" connectable="0" parent="sZVrNZs7Dj_VCF20QzUV-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.0385" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Caixa na balança pesa entre [20, 21] kg?" vertex="1">
+          <mxGeometry height="140" width="140" x="330" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-3" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="8fBpGjULVGPg8i81FcSs-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Plataforma sobe a caixa" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-11" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-5">
+          <mxGeometry relative="1" x="0.0938" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="457" />
+              <mxPoint x="400" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Aguarda na plataforma&amp;nbsp;&lt;div&gt;( Célula de carga continua a monitorizar)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="580" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-30" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Ativa Extrusoras e Sistema de Recolha&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="355" y="-119" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-26" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Robô coloca uma caixa vazia na plataforma" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="3jmU00urjJ8ylr8UyYKR-5" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="8fBpGjULVGPg8i81FcSs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Processador Inicia Sistema Operativo&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;do Sistema de Recolha&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="330" y="-57" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-7" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=0.043;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Tapete envia caixa cheia para reservatório de pré-trituração" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-8" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="yAhWvX2ufJ662loiiqIp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Passa sensor de presença da comporta" vertex="1">
+          <mxGeometry height="60" width="270" x="270" y="823" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-10" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.047;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="yAhWvX2ufJ662loiiqIp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Raspberry Pi autoriza o robô, este segura a caixa e despeja os 20kg no reservatório" vertex="1">
+          <mxGeometry height="60" width="270" x="265" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-52" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-54" connectable="0" parent="sZVrNZs7Dj_VCF20QzUV-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.2655" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-53" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-55" connectable="0" parent="sZVrNZs7Dj_VCF20QzUV-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.0764" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-48" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Ação Concluída?" vertex="1">
+          <mxGeometry height="130" width="130" x="335" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-57" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="sZVrNZs7Dj_VCF20QzUV-5">
+          <mxGeometry relative="1" x="-0.0919" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="297" />
+            </Array>
+            <mxPoint x="50" y="910" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-59" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-36" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.38;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1462.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Braço recolhe a caixa vazia" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="1285" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-35" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-48">
+          <mxGeometry relative="1" x="0.3286" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Recolha fica pendente até terminar a ação" vertex="1">
+          <mxGeometry height="60" width="250" x="520" y="1285" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Caixa enviada á origem" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1285" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-2" edge="1" parent="1" source="sZVrNZs7Dj_VCF20QzUV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="w4Uq-J6UhAcP69_c7gJv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZVrNZs7Dj_VCF20QzUV-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Acumula vários kilos até final do turno no reservatório" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-5" edge="1" parent="1" source="w4Uq-J6UhAcP69_c7gJv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="w4Uq-J6UhAcP69_c7gJv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-7" connectable="0" parent="w4Uq-J6UhAcP69_c7gJv-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.1718" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-6" edge="1" parent="1" source="w4Uq-J6UhAcP69_c7gJv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="w4Uq-J6UhAcP69_c7gJv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-8" connectable="0" parent="w4Uq-J6UhAcP69_c7gJv-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.162" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Definido Final do turno pelo operário&amp;nbsp;&lt;div&gt;OU&amp;nbsp;&lt;div&gt;Detectado Reservatório Cheio&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="140" x="330" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-8" edge="1" parent="1" source="w4Uq-J6UhAcP69_c7gJv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="8fBpGjULVGPg8i81FcSs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Material enviado automaticamente para a trituradora" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-13" edge="1" parent="1" source="w4Uq-J6UhAcP69_c7gJv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.898;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="w4Uq-J6UhAcP69_c7gJv-3">
+          <mxGeometry relative="1" x="0.0005" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="1700" />
+              <mxPoint x="310" y="1700" />
+              <mxPoint x="310" y="1623.7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Após 2 minutos da transição horária de turno a trituração inicia automaticamente e surge um alerta no monitor do chefe de secção e monitor do responsável de embalamento" vertex="1">
+          <mxGeometry height="60" width="270" x="530" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-15" edge="1" parent="1" source="w4Uq-J6UhAcP69_c7gJv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="yAhWvX2ufJ662loiiqIp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Segue para um reservatório de embalamento" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-38" edge="1" parent="1" source="w4Uq-J6UhAcP69_c7gJv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="8fBpGjULVGPg8i81FcSs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Uq-J6UhAcP69_c7gJv-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Sensores das saídas detetam presença de sacos e fazem descargas de 20kg pelas saídas com sacos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="495" x="152.5" y="2035" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-17" edge="1" parent="1" source="8fBpGjULVGPg8i81FcSs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="8fBpGjULVGPg8i81FcSs-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392.5" y="540" />
+              <mxPoint x="260" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Robô recolhe a caixa cheia para o tapete&lt;/font&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="332.5" y="466" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-9" edge="1" parent="1" source="8fBpGjULVGPg8i81FcSs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="w4Uq-J6UhAcP69_c7gJv-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Inicia o processo&amp;nbsp;&lt;div&gt;de trituração&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-15" edge="1" parent="1" source="8fBpGjULVGPg8i81FcSs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=-0.006;entryY=0.593;entryDx=0;entryDy=0;" target="sZVrNZs7Dj_VCF20QzUV-25">
+          <mxGeometry relative="1" x="-0.0031" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="585" />
+              <mxPoint x="180" y="685.5" />
+            </Array>
+            <mxPoint x="180" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-20" connectable="0" parent="8fBpGjULVGPg8i81FcSs-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.1028" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-22" edge="1" parent="1" source="8fBpGjULVGPg8i81FcSs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8fBpGjULVGPg8i81FcSs-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-23" connectable="0" parent="8fBpGjULVGPg8i81FcSs-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.5333" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;A plataforma está vazia?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-25" edge="1" parent="1" source="8fBpGjULVGPg8i81FcSs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="0.5191" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="640" />
+              <mxPoint x="260" y="640" />
+            </Array>
+            <mxPoint x="260" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Aguarda&lt;div&gt;(Sensor de Posição continua a monitorizar)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="330" x="510" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-3" edge="1" parent="1" source="8fBpGjULVGPg8i81FcSs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="yAhWvX2ufJ662loiiqIp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Sistema operativo inicía os sensores e os atuadores&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="285" x="257.5" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8fBpGjULVGPg8i81FcSs-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIM" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="2210" as="geometry" />
+        </mxCell>
+        <mxCell id="3jmU00urjJ8ylr8UyYKR-8" edge="1" parent="1" source="3jmU00urjJ8ylr8UyYKR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jmU00urjJ8ylr8UyYKR-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Inicia o processo de leitura das células de carga (balanças) presentes nas plataformas&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;ao lado da extrusora/funcionário&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="492.5" x="153.75" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-4" edge="1" parent="1" source="yAhWvX2ufJ662loiiqIp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="3jmU00urjJ8ylr8UyYKR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font size=&quot;1&quot;&gt;Na extrusora o funcionário introduz o turno&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;e a ordem de fabrico ou continua a produção do turno anterior&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="285" x="257.5" y="117" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-9" edge="1" parent="1" source="yAhWvX2ufJ662loiiqIp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Raspberry Pi&amp;nbsp;&lt;div&gt;comunica com o atuador da comporta para abrir&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="270" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Sensor de Carga do Robô monitoriza o peso" vertex="1">
+          <mxGeometry height="60" width="275" x="260" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-11" edge="1" parent="1" source="yAhWvX2ufJ662loiiqIp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="sZVrNZs7Dj_VCF20QzUV-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401.17" y="1220" />
+              <mxPoint x="401.17" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-16" edge="1" parent="1" source="yAhWvX2ufJ662loiiqIp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="w4Uq-J6UhAcP69_c7gJv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAhWvX2ufJ662loiiqIp-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;O reservatório liberta doses de 20kg por 10 saídas ao mesmo tempo para sacos&amp;nbsp; a embalar pelo funcionário&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="495" x="152.5" y="1860" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
